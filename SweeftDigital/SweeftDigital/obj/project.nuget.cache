@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "y/28/zSok4HDhlxNCQKX74P9H6pyJu+ZHgIj0mpE6tTnRX6c7Mb6ZuZbppZ2eYfW5Zq417hN2o5MT/xzdvpCow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\SweeftDigitalTasks\\SweeftDigital\\SweeftDigital\\SweeftDigital.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}
