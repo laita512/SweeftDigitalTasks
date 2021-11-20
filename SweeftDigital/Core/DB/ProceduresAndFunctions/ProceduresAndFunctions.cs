@@ -19,7 +19,7 @@ namespace Core.DB
         }
         #endregion
 
-        #region Stored Procedures  
+       
         public async Task AgentsCreate(int? AgentParentID, string AgentFirstname, string AgentLastname, string AgentPersonalNumber)
         {
             var PR = new PrepareQueryExecution(
@@ -168,7 +168,7 @@ namespace Core.DB
         }
 
 
-        #endregion
+      
 
         partial void OnModelCreatingPartial(ModelBuilder ModelBuilder)
         {
